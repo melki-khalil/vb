@@ -1,0 +1,14 @@
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\bin\Debug\bibliotaque.exe.config
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\bin\Debug\bibliotaque.exe
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\bin\Debug\bibliotaque.pdb
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\bin\Debug\bibliotaque.xml
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.vbproj.AssemblyReference.cache
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.Form1.resources
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.Resources.resources
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.vbproj.GenerateResource.cache
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.vbproj.CoreCompileInputs.cache
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.exe
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.xml
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.pdb
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.Form2.resources
+C:\Users\ranar\source\repos\bibliotaque\bibliotaque\obj\Debug\bibliotaque.Form3.resources

@@ -1,0 +1,12 @@
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\bin\Debug\Calculatrices advance.exe.config
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\bin\Debug\Calculatrices advance.exe
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\bin\Debug\Calculatrices advance.pdb
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\bin\Debug\Calculatrices advance.xml
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices advance.vbproj.AssemblyReference.cache
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices_advance.Form1.resources
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices_advance.Resources.resources
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices advance.vbproj.GenerateResource.cache
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices advance.vbproj.CoreCompileInputs.cache
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices advance.exe
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices advance.xml
+C:\Users\ranar\source\repos\Calculatrices advance\Calculatrices advance\obj\Debug\Calculatrices advance.pdb
