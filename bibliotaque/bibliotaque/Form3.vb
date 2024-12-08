@@ -19,7 +19,4 @@ Public Class Form3
 
     End Sub
 
-    Private Sub lV_SelectedIndexChanged(sender As Object, e As EventArgs) Handles lV.SelectedIndexChanged
-
-    End Sub
 End Class
