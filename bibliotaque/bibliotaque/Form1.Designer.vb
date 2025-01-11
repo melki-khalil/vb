@@ -22,116 +22,78 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.t_ISBN = New System.Windows.Forms.TextBox()
-        Me.t_auteur = New System.Windows.Forms.TextBox()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.t_titre = New System.Windows.Forms.TextBox()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.btn_ajout = New System.Windows.Forms.Button()
-        Me.btn_affich = New System.Windows.Forms.Button()
+        Me.components = New System.ComponentModel.Container()
+        Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
+        Me.AffivhageDetailToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ListOfBooksToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.AjouterToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
+        Me.Panel1 = New System.Windows.Forms.Panel()
+        Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
-        'Label1
+        'MenuStrip1
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.Label1.Location = New System.Drawing.Point(81, 77)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(58, 25)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "ISBN"
+        Me.MenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.AffivhageDetailToolStripMenuItem, Me.ListOfBooksToolStripMenuItem, Me.AjouterToolStripMenuItem})
+        Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
+        Me.MenuStrip1.Name = "MenuStrip1"
+        Me.MenuStrip1.Size = New System.Drawing.Size(800, 28)
+        Me.MenuStrip1.TabIndex = 0
+        Me.MenuStrip1.Text = "MenuStrip1"
         '
-        't_ISBN
+        'AffivhageDetailToolStripMenuItem
         '
-        Me.t_ISBN.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.t_ISBN.Location = New System.Drawing.Point(175, 77)
-        Me.t_ISBN.Name = "t_ISBN"
-        Me.t_ISBN.Size = New System.Drawing.Size(100, 30)
-        Me.t_ISBN.TabIndex = 1
+        Me.AffivhageDetailToolStripMenuItem.Name = "AffivhageDetailToolStripMenuItem"
+        Me.AffivhageDetailToolStripMenuItem.Size = New System.Drawing.Size(127, 24)
+        Me.AffivhageDetailToolStripMenuItem.Text = "affivhage detail"
         '
-        't_auteur
+        'ListOfBooksToolStripMenuItem
         '
-        Me.t_auteur.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.t_auteur.Location = New System.Drawing.Point(175, 254)
-        Me.t_auteur.Name = "t_auteur"
-        Me.t_auteur.Size = New System.Drawing.Size(100, 30)
-        Me.t_auteur.TabIndex = 3
+        Me.ListOfBooksToolStripMenuItem.Name = "ListOfBooksToolStripMenuItem"
+        Me.ListOfBooksToolStripMenuItem.Size = New System.Drawing.Size(115, 24)
+        Me.ListOfBooksToolStripMenuItem.Text = "liste des livers"
         '
-        'Label2
+        'AjouterToolStripMenuItem
         '
-        Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.Label2.Location = New System.Drawing.Point(81, 254)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(70, 25)
-        Me.Label2.TabIndex = 2
-        Me.Label2.Text = "Auteur"
+        Me.AjouterToolStripMenuItem.Name = "AjouterToolStripMenuItem"
+        Me.AjouterToolStripMenuItem.Size = New System.Drawing.Size(70, 24)
+        Me.AjouterToolStripMenuItem.Text = "ajouter"
         '
-        't_titre
+        'ContextMenuStrip1
         '
-        Me.t_titre.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.t_titre.Location = New System.Drawing.Point(175, 167)
-        Me.t_titre.Name = "t_titre"
-        Me.t_titre.Size = New System.Drawing.Size(100, 30)
-        Me.t_titre.TabIndex = 5
+        Me.ContextMenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
+        Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(61, 4)
         '
-        'Label3
+        'Panel1
         '
-        Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.Label3.Location = New System.Drawing.Point(81, 167)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(51, 25)
-        Me.Label3.TabIndex = 4
-        Me.Label3.Text = "Titre"
+        Me.Panel1.Location = New System.Drawing.Point(0, 32)
+        Me.Panel1.Name = "Panel1"
+        Me.Panel1.Size = New System.Drawing.Size(809, 423)
+        Me.Panel1.TabIndex = 2
         '
-        'btn_ajout
-        '
-        Me.btn_ajout.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.btn_ajout.Location = New System.Drawing.Point(447, 352)
-        Me.btn_ajout.Name = "btn_ajout"
-        Me.btn_ajout.Size = New System.Drawing.Size(146, 62)
-        Me.btn_ajout.TabIndex = 6
-        Me.btn_ajout.Text = "ajouter"
-        Me.btn_ajout.UseVisualStyleBackColor = True
-        '
-        'btn_affich
-        '
-        Me.btn_affich.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!)
-        Me.btn_affich.Location = New System.Drawing.Point(631, 352)
-        Me.btn_affich.Name = "btn_affich"
-        Me.btn_affich.Size = New System.Drawing.Size(146, 62)
-        Me.btn_affich.TabIndex = 7
-        Me.btn_affich.Text = "afficher"
-        Me.btn_affich.UseVisualStyleBackColor = True
-        '
-        'Form3
+        'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(800, 450)
-        Me.Controls.Add(Me.btn_affich)
-        Me.Controls.Add(Me.btn_ajout)
-        Me.Controls.Add(Me.t_titre)
-        Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.t_auteur)
-        Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.t_ISBN)
-        Me.Controls.Add(Me.Label1)
-        Me.Name = "Form3"
+        Me.Controls.Add(Me.Panel1)
+        Me.Controls.Add(Me.MenuStrip1)
+        Me.MainMenuStrip = Me.MenuStrip1
+        Me.Name = "Form1"
         Me.Text = "Form1"
+        Me.MenuStrip1.ResumeLayout(False)
+        Me.MenuStrip1.PerformLayout()
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
     End Sub
 
-    Friend WithEvents Label1 As Label
-    Friend WithEvents t_ISBN As TextBox
-    Friend WithEvents t_auteur As TextBox
-    Friend WithEvents Label2 As Label
-    Friend WithEvents t_titre As TextBox
-    Friend WithEvents Label3 As Label
-    Friend WithEvents btn_ajout As Button
-    Friend WithEvents btn_affich As Button
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents AffivhageDetailToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ListOfBooksToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents AjouterToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
+    Friend WithEvents Panel1 As Panel
 End Class

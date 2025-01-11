@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\",
+  "WorkspaceRootPath": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|c:\\users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|c:\\users\\ranar\\documents\\2ig\\vb\\vb\\bibliotaque\\bibliotaque\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D9E5F766-EBB1-420E-8F9C-CFB4682972B2}|bibliotaque\\bibliotaque.vbproj|solutionrelative:bibliotaque\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +39,73 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form3.vb",
-              "DocumentMoniker": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form3.vb",
-              "RelativeDocumentMoniker": "bibliotaque\\Form3.vb",
-              "ToolTip": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form3.vb",
-              "RelativeToolTip": "bibliotaque\\Form3.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form4.vb",
+              "RelativeDocumentMoniker": "bibliotaque\\Form4.vb",
+              "ToolTip": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form4.vb",
+              "RelativeToolTip": "bibliotaque\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-06T10:47:29.804Z",
+              "WhenOpened": "2025-01-11T13:25:07.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form3.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form3.vb",
-              "RelativeDocumentMoniker": "bibliotaque\\Form3.vb",
-              "ToolTip": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form3.vb [Design]",
-              "RelativeToolTip": "bibliotaque\\Form3.vb [Design]",
+              "Title": "Form4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form4.vb",
+              "RelativeDocumentMoniker": "bibliotaque\\Form4.vb",
+              "ToolTip": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form4.vb [Design]",
+              "RelativeToolTip": "bibliotaque\\Form4.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-06T10:46:46.216Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.vb",
-              "DocumentMoniker": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form2.vb",
-              "RelativeDocumentMoniker": "bibliotaque\\Form2.vb",
-              "ToolTip": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form2.vb",
-              "RelativeToolTip": "bibliotaque\\Form2.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-05T17:28:50.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form2.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form2.vb",
-              "RelativeDocumentMoniker": "bibliotaque\\Form2.vb",
-              "ToolTip": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form2.vb [Design]",
-              "RelativeToolTip": "bibliotaque\\Form2.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-05T16:13:24.556Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-11T13:25:05.3Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form1.vb",
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form1.vb",
               "RelativeDocumentMoniker": "bibliotaque\\Form1.vb",
-              "ToolTip": "C:\\Users\\ranar\\source\\repos\\vb\\bibliotaque\\bibliotaque\\Form1.vb",
-              "RelativeToolTip": "bibliotaque\\Form1.vb",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form1.vb [Design]",
+              "RelativeToolTip": "bibliotaque\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-12-05T16:12:12.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T13:23:22.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form1.vb",
+              "RelativeDocumentMoniker": "bibliotaque\\Form1.vb",
+              "ToolTip": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form1.vb",
+              "RelativeToolTip": "bibliotaque\\Form1.vb",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-01-11T10:38:36.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form3.vb",
+              "RelativeDocumentMoniker": "bibliotaque\\Form3.vb",
+              "ToolTip": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form3.vb",
+              "RelativeToolTip": "bibliotaque\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T17:28:50.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form2.vb",
+              "RelativeDocumentMoniker": "bibliotaque\\Form2.vb",
+              "ToolTip": "C:\\Users\\ranar\\Documents\\2IG\\vb\\vb\\bibliotaque\\bibliotaque\\Form2.vb",
+              "RelativeToolTip": "bibliotaque\\Form2.vb",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-05T16:12:12.185Z"
             }
           ]
         }
